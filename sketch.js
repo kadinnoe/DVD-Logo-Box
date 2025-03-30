@@ -10,7 +10,7 @@ function setup() {
     strokeWeight(2);
     box_position = createVector(50, 50);
     box_size = createVector(50, 50);
-    box_velocity = createVector(20, 20);
+    box_velocity = createVector(5, 5);
     edge_margin = createVector(5, 5);
 }
 function draw() {
